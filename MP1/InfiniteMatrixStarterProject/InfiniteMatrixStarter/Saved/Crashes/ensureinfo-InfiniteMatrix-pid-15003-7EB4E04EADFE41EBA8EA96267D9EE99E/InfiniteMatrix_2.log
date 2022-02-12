@@ -1,0 +1,1193 @@
+﻿Log file open, 02/11/22 19:44:32
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InfiniteMatrix
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 32 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.082796
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteSupport
+LogInit: Using libcurl 7.65.3-DEV
+LogInit:  - built for x86_64-unknown-linux-gnu
+LogInit:  - supports SSL with OpenSSL/1.1.1c
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_TLSAUTH_SRP
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.27-CL-0
+LogInit: Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Net CL: 0
+LogInit: OS: GenericOSVersionLabel (GenericOSSubVersionLabel), CPU: Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz, GPU: GenericGPUBrand
+LogInit: Compiled (64-bit): Sep 20 2021 12:56:23
+LogInit: Compiled with Clang: 11.0.1 
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: /home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/Engine/Binaries/Linux/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Engine.ini]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Engine.ini]
+[2022.02.12-01.44.37:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Engine.ini]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Engine.ini]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.12-01.44.37:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Engine.ini]
+[2022.02.12-01.44.37:356][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Engine.ini]
+[2022.02.12-01.44.37:356][  0]LogInit: Initializing SDL.
+[2022.02.12-01.44.37:381][  0]LogInit: Initialized SDL 2.0.12 revision: 13609 (hg-13609:34cc7d3b69d3) (compiled against 2.0.12)
+[2022.02.12-01.44.37:381][  0]LogInit: Using SDL video driver 'x11'
+[2022.02.12-01.44.37:381][  0]LogInit: Display metrics:
+[2022.02.12-01.44.37:381][  0]LogInit:   PrimaryDisplayWidth: 2560
+[2022.02.12-01.44.37:381][  0]LogInit:   PrimaryDisplayHeight: 1440
+[2022.02.12-01.44.37:381][  0]LogInit:   PrimaryDisplayWorkAreaRect:
+[2022.02.12-01.44.37:381][  0]LogInit:     Left=57, Top=27, Right=2560, Bottom=1440
+[2022.02.12-01.44.37:381][  0]LogInit:   VirtualDisplayRect:
+[2022.02.12-01.44.37:381][  0]LogInit:     Left=57, Top=27, Right=2560, Bottom=1440
+[2022.02.12-01.44.37:381][  0]LogInit:   TitleSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2022.02.12-01.44.37:381][  0]LogInit:   ActionSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2022.02.12-01.44.37:381][  0]LogInit:   Number of monitors: 1
+[2022.02.12-01.44.37:381][  0]LogInit:     Monitor 0
+[2022.02.12-01.44.37:381][  0]LogInit:       Name: DELL S3220DGF 31"
+[2022.02.12-01.44.37:381][  0]LogInit:       ID: display0
+[2022.02.12-01.44.37:381][  0]LogInit:       NativeWidth: 2560
+[2022.02.12-01.44.37:381][  0]LogInit:       NativeHeight: 1440
+[2022.02.12-01.44.37:381][  0]LogInit:       bIsPrimary: true
+[2022.02.12-01.44.37:381][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.12-01.44.37:381][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.12-01.44.37:382][  0]LogLinux: Selected Device Profile: [Linux]
+[2022.02.12-01.44.37:382][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Linux]
+[2022.02.12-01.44.37:382][  0]LogHAL: Display: Platform has ~ 4 GB [134791942144 / 4294967296 / 126], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.12-01.44.37:382][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Scalability.ini]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.12-01.44.37:382][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.12-01.44.37:383][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.12-01.44.37:383][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.12-01.44.37:383][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.12-01.44.37:383][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Engine.ini]
+[2022.02.12-01.44.37:383][  0]LogConfig: Setting CVar [[g.TimeoutForBlockOnRenderFence:60000]]
+[2022.02.12-01.44.37:383][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Config/Linux/Editor.ini]
+[2022.02.12-01.44.37:383][  0]LogInit: Unix hardware info:
+[2022.02.12-01.44.37:383][  0]LogInit:  - we are the first instance of this executable
+[2022.02.12-01.44.37:383][  0]LogInit:  - this process' id (pid) is 15003, parent process' id (ppid) is 3680
+[2022.02.12-01.44.37:383][  0]LogInit:  - we are not running under debugger
+[2022.02.12-01.44.37:383][  0]LogInit:  - machine network name is 'luojiayi-Precision-3640-Tower'
+[2022.02.12-01.44.37:383][  0]LogInit:  - user name is 'luojiayi' (luojiayi)
+[2022.02.12-01.44.37:383][  0]LogInit:  - we're logged in locally
+[2022.02.12-01.44.37:383][  0]LogInit:  - we're running with rendering
+[2022.02.12-01.44.37:383][  0]LogInit:  - CPU: GenuineIntel 'Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz' (signature: 0xA0655)
+[2022.02.12-01.44.37:383][  0]LogInit:  - Number of physical cores available for the process: 10
+[2022.02.12-01.44.37:383][  0]LogInit:  - Number of logical cores available for the process: 20
+[2022.02.12-01.44.37:383][  0]LogInit:  - Cache line size: 64
+[2022.02.12-01.44.37:383][  0]LogInit:  - Memory allocator used: binned2
+[2022.02.12-01.44.37:383][  0]LogInit:  - This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+[2022.02.12-01.44.37:383][  0]LogInit:  - This is an internal build.
+[2022.02.12-01.44.37:383][  0]LogCore: Benchmarking clocks:
+[2022.02.12-01.44.37:383][  0]LogCore:  - CLOCK_MONOTONIC (id=1) can sustain 72251704 (72252K, 72M) calls per second without zero deltas.
+[2022.02.12-01.44.37:383][  0]LogCore:  - CLOCK_MONOTONIC_RAW (id=4) can sustain 74311753 (74312K, 74M) calls per second without zero deltas.
+[2022.02.12-01.44.37:383][  0]LogCore:  - CLOCK_MONOTONIC_COARSE (id=6) can sustain 255154809 (255155K, 255M) calls per second with 99.999898% zero deltas.
+[2022.02.12-01.44.37:383][  0]LogCore: Selected clock_id 4 (CLOCK_MONOTONIC_RAW) since it is the fastest support clock without zero deltas.
+[2022.02.12-01.44.37:383][  0]LogInit: Unix-specific commandline switches:
+[2022.02.12-01.44.37:383][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2022.02.12-01.44.37:383][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2022.02.12-01.44.37:383][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2022.02.12-01.44.37:383][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2022.02.12-01.44.37:383][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
+[2022.02.12-01.44.37:383][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
+[2022.02.12-01.44.37:383][  0]LogInit:  -preloadmodulesymbols - Loads the main module symbols file into memory (OFF)
+[2022.02.12-01.44.37:383][  0]LogInit:  -sigdfl=SIGNAL - Allows a specific signal to be set to its default handler rather then ignoring the signal
+[2022.02.12-01.44.37:383][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2022.02.12-01.44.37:383][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2022.02.12-01.44.37:383][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2022.02.12-01.44.37:383][  0]LogInit:  - Physical RAM available (not considering process quota): 126 GB (128547 MB, 131632756 KB, 134791942144 bytes)
+[2022.02.12-01.44.37:383][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1.4
+[2022.02.12-01.44.37:383][  0]LogInit:  - MemoryRangeDecommit() will be a no-op (re-run with -vmapoolevict to change)
+[2022.02.12-01.44.37:401][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.12-01.44.37:419][  0]LogInit: Using OS detected language (en-US).
+[2022.02.12-01.44.37:419][  0]LogInit: Using OS detected locale (en-US).
+[2022.02.12-01.44.37:419][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.12-01.44.37:617][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.12-01.44.37:617][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.12-01.44.38:230][  0]LogInit: Using SDL_WINDOW_VULKAN
+[2022.02.12-01.44.38:274][  0]LogVulkanRHI: Display: - Found 0 instance layers
+[2022.02.12-01.44.38:274][  0]LogVulkanRHI: Display: - Found 18 instance extensions
+[2022.02.12-01.44.38:274][  0]LogVulkanRHI: Display: * VK_EXT_acquire_xlib_display
+[2022.02.12-01.44.38:274][  0]LogVulkanRHI: Display: * VK_EXT_debug_report
+[2022.02.12-01.44.38:274][  0]LogVulkanRHI: Display: * VK_EXT_debug_utils
+[2022.02.12-01.44.38:274][  0]LogVulkanRHI: Display: * VK_EXT_direct_mode_display
+[2022.02.12-01.44.38:274][  0]LogVulkanRHI: Display: * VK_EXT_display_surface_counter
+[2022.02.12-01.44.38:274][  0]LogVulkanRHI: Display: * VK_KHR_device_group_creation
+[2022.02.12-01.44.38:274][  0]LogVulkanRHI: Display: * VK_KHR_display
+[2022.02.12-01.44.38:274][  0]LogVulkanRHI: Display: * VK_KHR_external_fence_capabilities
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_external_memory_capabilities
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_external_semaphore_capabilities
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_get_display_properties2
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_get_physical_device_properties2
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_get_surface_capabilities2
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_surface
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_surface_protected_capabilities
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_wayland_surface
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_xcb_surface
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_xlib_surface
+[2022.02.12-01.44.38:275][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: Not using instance layers
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: Using instance extensions
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_surface
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_xlib_surface
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_external_memory_capabilities
+[2022.02.12-01.44.38:275][  0]LogVulkanRHI: Display: * VK_KHR_get_physical_device_properties2
+[2022.02.12-01.44.38:282][  0]LogVulkanRHI: Display: Found 2 device(s)
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: Device 0: Intel(R) UHD Graphics 630 (CML GT2)
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: - API 1.2.131(0x402083) Driver 0x5000008 VendorId 0x8086
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: - DeviceID 0x9bc5 Type Integrated GPU
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: - Max Descriptor Sets Bound 8 Timestamps 1
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: - Device Properties driverName: Intel open-source Mesa driver
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: - Device Properties driverInfo: Mesa 20.0.8
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_buffer_device_address
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_calibrated_timestamps
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conditional_rendering
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_clip_enable
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_descriptor_indexing
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_display_control
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_external_memory_dma_buf
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_external_memory_host
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_fragment_shader_interlock
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_host_query_reset
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_index_type_uint8
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_inline_uniform_block
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_line_rasterization
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_memory_budget
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pci_bus_info
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_feedback
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_post_depth_coverage
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sampler_filter_minmax
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_scalar_block_layout
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_separate_stencil_usage
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_demote_to_helper_invocation
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_stencil_export
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_ballot
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_vote
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_viewport_index_layer
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_subgroup_size_control
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_texel_buffer_alignment
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_transform_feedback
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_attribute_divisor
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_ycbcr_image_arrays
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_GOOGLE_decorate_string
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_GOOGLE_hlsl_functionality1
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_GOOGLE_user_type
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_INTEL_shader_integer_functions2
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_16bit_storage
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_8bit_storage
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_bind_memory2
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_buffer_device_address
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_create_renderpass2
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_dedicated_allocation
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_depth_stencil_resolve
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_descriptor_update_template
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_device_group
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_draw_indirect_count
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_driver_properties
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence_fd
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory_fd
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore_fd
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_get_memory_requirements2
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_image_format_list
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_imageless_framebuffer
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_incremental_present
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance1
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance2
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance3
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_multiview
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_pipeline_executable_properties
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_push_descriptor
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_relaxed_block_layout
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_mirror_clamp_to_edge
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_ycbcr_conversion
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_separate_depth_stencil_layouts
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_atomic_int64
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_clock
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_draw_parameters
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float16_int8
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float_controls
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_subgroup_extended_types
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_spirv_1_4
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_storage_buffer_storage_class
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain_mutable_format
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_timeline_semaphore
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_uniform_buffer_standard_layout
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_variable_pointers
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_vulkan_memory_model
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_compute_shader_derivatives
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: Device 1: NVIDIA GeForce RTX 3080
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: - API 1.2.186(0x4020ba) Driver 0x7bc74140 VendorId 0x10de
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: - DeviceID 0x2206 Type Discrete GPU
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: - Max Descriptor Sets Bound 32 Timestamps 1
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: - Device Properties driverName: NVIDIA
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: - Device Properties driverInfo: 495.29.05
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_4444_formats
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_blend_operation_advanced
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_buffer_device_address
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_calibrated_timestamps
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_color_write_enable
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conditional_rendering
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conservative_rasterization
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_custom_border_color
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_clip_enable
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_range_unrestricted
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_descriptor_indexing
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_discard_rectangles
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_display_control
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_extended_dynamic_state
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_extended_dynamic_state2
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_external_memory_host
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_fragment_shader_interlock
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority_query
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_host_query_reset
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_image_robustness
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_index_type_uint8
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_inline_uniform_block
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_line_rasterization
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_memory_budget
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_multi_draw
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pci_bus_info
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_physical_device_drm
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_cache_control
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_feedback
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_post_depth_coverage
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_private_data
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_provoking_vertex
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_queue_family_foreign
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_robustness2
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sample_locations
+[2022.02.12-01.44.38:283][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sampler_filter_minmax
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_scalar_block_layout
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_separate_stencil_usage
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_atomic_float
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_demote_to_helper_invocation
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_image_atomic_int64
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_ballot
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_vote
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_viewport_index_layer
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_subgroup_size_control
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_texel_buffer_alignment
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_tooling_info
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_transform_feedback
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_attribute_divisor
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_input_dynamic_state
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_ycbcr_2plane_444_formats
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_ycbcr_image_arrays
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_16bit_storage
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_8bit_storage
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_acceleration_structure
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_bind_memory2
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_buffer_device_address
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_copy_commands2
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_create_renderpass2
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_dedicated_allocation
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_deferred_host_operations
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_depth_stencil_resolve
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_descriptor_update_template
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_device_group
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_draw_indirect_count
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_driver_properties
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence_fd
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory_fd
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore_fd
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_fragment_shading_rate
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_get_memory_requirements2
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_image_format_list
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_imageless_framebuffer
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance1
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance2
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance3
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_multiview
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_pipeline_executable_properties
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_pipeline_library
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_present_id
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_present_wait
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_push_descriptor
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_ray_query
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_ray_tracing_pipeline
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_relaxed_block_layout
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_mirror_clamp_to_edge
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_ycbcr_conversion
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_separate_depth_stencil_layouts
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_atomic_int64
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_clock
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_draw_parameters
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float16_int8
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float_controls
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_non_semantic_info
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_subgroup_extended_types
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_subgroup_uniform_control_flow
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_terminate_invocation
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_spirv_1_4
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_storage_buffer_storage_class
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain_mutable_format
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_synchronization2
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_timeline_semaphore
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_uniform_buffer_standard_layout
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_variable_pointers
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_vulkan_memory_model
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_workgroup_memory_explicit_layout
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_zero_initialize_workgroup_memory
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_clip_space_w_scaling
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_compute_shader_derivatives
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_cooperative_matrix
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_corner_sampled_image
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_coverage_reduction_mode
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_cuda_kernel_launch
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_dedicated_allocation
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_dedicated_allocation_image_aliasing
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_diagnostic_checkpoints
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_diagnostics_config
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_generated_commands
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fill_rectangle
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fragment_coverage_to_color
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fragment_shader_barycentric
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fragment_shading_rate_enums
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_framebuffer_mixed_samples
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_geometry_shader_passthrough
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_inherited_viewport_scissor
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_mesh_shader
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_ray_tracing
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_ray_tracing_motion_blur
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_representative_fragment_test
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_sample_mask_override_coverage
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_scissor_exclusive
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_image_footprint
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_sm_builtins
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_subgroup_partitioned
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shading_rate_image
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_viewport_array2
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_viewport_swizzle
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NVX_binary_import
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NVX_image_view_handle
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: -    Found device extension VK_NVX_multiview_per_view_attributes
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: Using Device 1: Geometry 1 Tessellation 1 BufferAtomic64 1
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: Found 3 Queue Families
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: Initializing Queue Family 0: 16 queues Gfx Compute Xfer Sparse
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: Initializing Queue Family 1: 2 queues Xfer Sparse
+[2022.02.12-01.44.38:284][  0]LogVulkanRHI: Display: Skipping unnecessary Queue Family 2: 8 queues Compute Xfer Sparse
+[2022.02.12-01.44.38:470][  0]LogVulkanRHI: Display: Using device layers
+[2022.02.12-01.44.38:470][  0]LogVulkanRHI: Display: Using device extensions
+[2022.02.12-01.44.38:470][  0]LogVulkanRHI: Display: * VK_KHR_driver_properties
+[2022.02.12-01.44.38:470][  0]LogVulkanRHI: Display: * VK_KHR_get_memory_requirements2
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: * VK_KHR_dedicated_allocation
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: * VK_KHR_swapchain
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: * VK_KHR_maintenance1
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: * VK_KHR_maintenance2
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: * VK_EXT_memory_budget
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: * VK_EXT_scalar_block_layout
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: * VK_KHR_shader_atomic_int64
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: * VK_KHR_image_format_list
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: 3 Device Memory Heaps; Max memory allocations -1
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  0: Flags 0x1 Size 10737418240 (10240.00 MB) GPU
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  1: Flags 0x0 Size 101093956608 (96410.71 MB) 
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  2: Flags 0x1 Size 257949696 (246.00 MB) GPU
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: 11 Device Memory Types (Not unified)
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  7: Flags 0x00001 Heap  0  Local                                         
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  0: Flags 0x00000 Heap  1                                                
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  1: Flags 0x00000 Heap  1                                                
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  2: Flags 0x00000 Heap  1                                                
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  3: Flags 0x00000 Heap  1                                                
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  4: Flags 0x00000 Heap  1                                                
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  5: Flags 0x00000 Heap  1                                                
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  6: Flags 0x00000 Heap  1                                                
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  8: Flags 0x00006 Heap  1        HostVisible HostCoherent                
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display:  9: Flags 0x0000e Heap  1        HostVisible HostCoherent HostCached     
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: 10: Flags 0x00007 Heap  2  Local HostVisible HostCoherent                
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: Host Allocation Percentage   0.00% -          0.00MB / 9148.812MB
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: Memory Budget
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: 	         | Usage                     | Budget          | Size            |
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: 	---------|---------------------------------------------------------------|
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: 	 HEAP 00 |   0.01% /         0.812mb |      9148.812mb |     10240.000mb |
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: 	 HEAP 01 |   0.02% /        21.293mb |     96410.710mb |     96410.710mb |
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: 	 HEAP 02 |   6.10% /        15.000mb |       231.000mb |       246.000mb |
+[2022.02.12-01.44.38:471][  0]LogVulkanRHI: Display: 	---------|---------------------------------------------------------------|
+[2022.02.12-01.44.38:488][  0]LogVulkanRHI: Display: FVulkanPipelineStateCacheManager: Binary pipeline cache '../../../../../Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/VulkanPSO.cache.10de.2206' not found.
+[2022.02.12-01.44.38:488][  0]LogVulkanRHI: Display: Nvidia User Driver Version = 495.29
+[2022.02.12-01.44.38:492][  0]LogRHI: Texture pool is 7340 MB (70% of 10486 MB)
+[2022.02.12-01.44.39:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.12-01.44.39:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.12-01.44.39:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.12-01.44.39:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.12-01.44.39:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.12-01.44.39:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.12-01.44.39:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.12-01.44.39:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.12-01.44.39:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.12-01.44.39:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.12-01.44.39:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.12-01.44.39:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.12-01.44.39:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.12-01.44.39:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.12-01.44.40:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.12-01.44.40:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.12-01.44.40:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.12-01.44.40:496][  0]LogTargetPlatformManager: Display: Building Assets For Linux
+[2022.02.12-01.44.41:053][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.02.12-01.44.41:061][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.12-01.44.41:062][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Intermediate/Shaders/WorkingDirectory/15003/).
+[2022.02.12-01.44.41:062][  0]LogShaderCompilers: Cleaned the shader compiler working directory '../../../../../Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Intermediate/Shaders/tmp/DC64EB864EC442F0ABC660DE3D33D328/'.
+[2022.02.12-01.44.41:062][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.12-01.44.42:109][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.12-01.44.42:166][  0]LogDerivedDataCache: Loaded boot cache 0.06s 99MB ../../../../../Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/DerivedDataCache/Boot.ddc.
+[2022.02.12-01.44.42:166][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/DerivedDataCache/Boot.ddc
+[2022.02.12-01.44.42:166][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.12-01.44.42:166][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.12-01.44.42:166][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.12-01.44.42:166][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2022.02.12-01.44.42:167][  0]LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.00 seconds
+[2022.02.12-01.44.42:167][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=3571.41MBs, RandomWriteSpeed=901.97MBs. Assigned SpeedClass 'Local'
+[2022.02.12-01.44.42:168][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2022.02.12-01.44.42:168][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.12-01.44.42:168][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.12-01.44.42:199][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.12-01.44.42:199][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.12-01.44.42:228][  0]LogAssetRegistry: FAssetRegistry took 0.0014 seconds to start up
+[2022.02.12-01.44.42:385][  0]LogLinux: Selected Device Profile: [Linux]
+[2022.02.12-01.44.42:385][  0]LogInit: Active device profile: [0x7ff1e2e08000][0x7ff1e34ce8c0 49] Linux
+[2022.02.12-01.44.42:385][  0]LogInit: Profiles: [0x7ff1e2e03e00][0x7ff20ba81780 49] Windows, [0x7ff1e2e03c00][0x7ff20ba80040 49] WindowsNoEditor, [0x7ff1e2e03b00][0x7ff1e060e8c0 49] WindowsServer, [0x7ff1e2e03a00][0x7ff1e060d180 49] WindowsClient, [0x7ff1e2e03900][0x7ff1e060ba40 49] IOS, [0x7ff1e2e03700][0x7ff1e060a300 49] iPadAir, [0x7ff1e2e03600][0x7ff1e0608bc0 49] iPadAir2, [0x7ff1e2e08a00][0x7ff1e2e9e8c0 49] IPadPro, [0x7ff1e2e08b00][0x7ff1e0607480 49] iPadAir3, [0x7ff1e2e04900][0x7ff1e2e9d180 49] iPadAir4, [0x7ff1e2e04a00][0x7ff1e2e9ba40 49] iPadMini2, [0x7ff1e2e04b00][0x7ff1e2e9a300 49] iPadMini3, [0x7ff1e2e04c00][0x7ff1e2e98bc0 49] iPadMini4, [0x7ff1e2e04d00][0x7ff1e2e97480 49] iPadMini5, [0x7ff1e291ae00][0x7ff1e2e94600 49] iPhone6, [0x7ff1e291ad00][0x7ff1e2e95d40 49] iPodTouch6, [0x7ff1e2e08f00][0x7ff1e2e91780 49] iPhone7, [0x7ff1e2e09000][0x7ff1e2e92ec0 49] iPodTouch7, [0x7ff1e2e02600][0x7ff1e2e90040 49] iPhone5S, [0x7ff1e2e02700][0x7ff1e2f6e8c0 49] iPhone6Plus, [0x7ff1e2e02800][0x7ff1e2f6d180 49] iPhone6S, [0x7ff1e2e02900][0x7ff1e2f6ba40 49] iPhone6SPlus, [0x7ff1e2e05200][0x7ff1e2f6a300 49] iPhone7Plus, [0x7ff1e2e03200][0x7ff1e2f68bc0 49] iPhoneSE, [0x7ff1e2e03300][0x7ff1e2f67480 49] iPhone8, [0x7ff1e2e03400][0x7ff1e2f65d40 49] iPhone8Plus, [0x7ff1e2e03500][0x7ff1e2f64600 49] iPhoneX, [0x7ff1e2e05500][0x7ff1e2f62ec0 49] iPhoneXS, [0x7ff1e2e05400][0x7ff1e2f61780 49] iPhoneXSMax, [0x7ff1e2e05300][0x7ff1e317e8c0 49] iPhoneXR, [0x7ff1e2e02d00][0x7ff1e317d180 49] iPhone11, [0x7ff1e2e02c00][0x7ff1e317ba40 49] iPhone11Pro, [0x7ff1e2e02b00][0x7ff1e317a300 49] iPhone11ProMax, [0x7ff1e2d0b900][0x7ff1e3178bc0 49] iPhoneSE2, [0x7ff1e2e05700][0x7ff1e3177480 49] iPhone12Mini, [0x7ff1e2e08900][0x7ff1e33ae8c0 49] iPhone12, [0x7ff1e2e08800][0x7ff1e33ad180 49] iPhone12Pro, [0x7ff1e2e08700][0x7ff1e33aba40 49] iPhone12ProMax, [0x7ff1e2d07100][0x7ff1e33aa300 49] iPadPro105, [0x7ff1e2e05600][0x7ff1e33a8bc0 49] iPadPro129, [0x7ff1e2e05d00][0x7ff1e33a7480 49] iPadPro97, [0x7ff1e2e05e00][0x7ff1e33a5d40 49] iPadPro2_129, [0x7ff1e2e05f00][0x7ff1e33a4600 49] iPad5, [0x7ff1e2e06000][0x7ff1e33a2ec0 49] iPad6, [0x7ff1e2e06100][0x7ff1e33a1780 49] iPad7, [0x7ff1e2e06200][0x7ff1e33a0040 49] iPad8, [0x7ff1e2e06300][0x7ff1e342e8c0 49] iPadPro11, [0x7ff1e2e06500][0x7ff1e342d180 49] iPadPro2_11, [0x7ff1e2e02300][0x7ff1e342ba40 49] iPadPro3_129, [0x7ff1e2e02e00][0x7ff1e342a300 49] iPadPro4_129, [0x7ff1e2e04e00][0x7ff1e3428bc0 49] AppleTV, [0x7ff1e2e04f00][0x7ff1e3427480 49] AppleTV4K, [0x7ff1e2e05000][0x7ff1e3425d40 49] TVOS, [0x7ff1e2e05100][0x7ff1e3424600 49] Mac, [0x7ff1e2e02f00][0x7ff1e3422ec0 49] MacClient, [0x7ff1e2d0df00][0x7ff1e3421780 49] MacNoEditor, [0x7ff1e2e03100][0x7ff1e3420040 49] MacServer, [0x7ff1e2e08000][0x7ff1e34ce8c0 49] Linux, [0x7ff1e2e02a00][0x7ff1e34cd180 49] LinuxAArch64, [0x7ff1e2e03000][0x7ff1e34cba40 49] LinuxNoEditor, [0x7ff1e2e05800][0x7ff1e34ca300 49] LinuxAArch64NoEditor, [0x7ff1e2e05900][0x7ff1e34c8bc0 49] LinuxClient, [0x7ff1e2e05a00][0x7ff1e34c7480 49] LinuxAArch64Client, [0x7ff1e2e05b00][0x7ff1e34c5d40 49] LinuxServer, [0x7ff1e2e05c00][0x7ff1e34c4600 49] LinuxAArch64Server, [0x7ff1e2e08e00][0x7ff1e34c2ec0 49] Android, [0x7ff1e2aa4400][0x7ff1e34c1780 49] Android_Low, [0x7ff1e2916800][0x7ff1e34c0040 49] Android_Mid, [0x7ff1e2e01400][0x7ff1e351e8c0 49] Android_High, [0x7ff1e2d0e800][0x7ff1e351d180 49] Android_Default, [0x7ff1e2e00300][0x7ff1e351ba40 49] Android_Adreno4xx, [0x7ff1e2e00b00][0x7ff1e351a300 49] Android_Adreno5xx_Low, [0x7ff1e2e00c00][0x7ff1e3518bc0 49] Android_Adreno5xx, [0x7ff1e2e00d00][0x7ff1e3517480 49] Android_Adreno6xx, [0x7ff1e2e01b00][0x7ff1e3515d40 49] Android_Adreno6xx_Vulkan, [0x7ff1e2d0d600][0x7ff1e3514600 49] Android_Mali_T6xx, [0x7ff1e2d0fd00][0x7ff1e3512ec0 49] Android_Mali_T7xx, [0x7ff1e2d0e600][0x7ff1e3511780 49] Android_Mali_T8xx, [0x7ff1e2e00800][0x7ff1e3510040 49] Android_Mali_G71, [0x7ff1e2d0ec00][0x7ff1e353e8c0 49] Android_Mali_G72, [0x7ff1e2e09100][0x7ff1e353d180 49] Android_Mali_G72_Vulkan, [0x7ff1e2e09200][0x7ff1e353ba40 49] Android_Mali_G76, [0x7ff1e2e09300][0x7ff1e353a300 49] Android_Mali_G76_Vulkan, [0x7ff1e2e09400][0x7ff1e3538bc0 49] Android_Mali_G77, [0x7ff1e2e09500][0x7ff1e3537480 49] Android_Mali_G77_Vulkan, [0x7ff1e2e09600][0x7ff1e3535d40 49] Android_Mali_G78, [0x7ff1e2e09a00][0x7ff1e3534600 49] Android_Mali_G78_Vulkan, [0x7ff1e2e09b00][0x7ff1e3532ec0 49] Android_Mali_G710, [0x7ff1e2e09c00][0x7ff1e3531780 49] Android_Mali_G710_Vulkan, [0x7ff1e2e09700][0x7ff1e3530040 49] Android_Vulkan_SM5, [0x7ff1e2e09800][0x7ff1e3175d40 49] Android_PowerVR_G6xxx, [0x7ff1e2e09900][0x7ff1e339e8c0 49] Android_PowerVR_GT7xxx, [0x7ff1e2e09d00][0x7ff1e339d180 49] Android_PowerVR_GE8xxx, [0x7ff1e2e09e00][0x7ff1e339ba40 49] Android_PowerVR_GM9xxx, [0x7ff1e2e09f00][0x7ff1e339a300 49] Android_PowerVR_GM9xxx_Vulkan, [0x7ff1e2e0a000][0x7ff1e3398bc0 49] Android_TegraK1, [0x7ff1e2e0a100][0x7ff1e3397480 49] Android_Unknown_Vulkan, [0x7ff1e2e0a200][0x7ff1e3395d40 49] Lumin, [0x7ff1e2e0a400][0x7ff1e3394600 49] Lumin_Desktop, [0x7ff1e2e0a500][0x7ff1e3392ec0 49] HoloLens, 
+[2022.02.12-01.44.43:454][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.12-01.44.43:454][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.12-01.44.43:454][  0]LogMeshReduction: No automatic mesh merging module available
+[2022.02.12-01.44.43:454][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.12-01.44.43:454][  0]LogMeshMerging: No automatic mesh merging module available
+[2022.02.12-01.44.43:454][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.12-01.44.43:791][  0]LogNetVersion: InfiniteMatrix 1.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1183764745)
+[2022.02.12-01.44.44:933][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.12-01.44.44:980][  0]LogUObjectArray: 16934 objects as part of root set at end of initial load.
+[2022.02.12-01.44.44:980][  0]LogUObjectAllocator: 4236248 out of 0 bytes used by permanent object pool.
+[2022.02.12-01.44.44:980][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.12-01.44.45:306][  0]LogHAL: Linux SourceCodeAccessSettings: NullSourceCodeAccessor
+[2022.02.12-01.44.49:367][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.12-01.44.49:369][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.12-01.44.54:438][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0A38905D8C624DCB8B746CB7AB48368B | Instance: 86A6EBE6FA1A470AB918954982D2C2E0 (luojiayi-Precision-3640-Tower-15003).
+[2022.02.12-01.44.54:680][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2022.02.12-01.44.54:680][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2022.02.12-01.44.54:680][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2022.02.12-01.44.54:680][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2022.02.12-01.44.54:680][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2022.02.12-01.44.54:680][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2022.02.12-01.44.54:680][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2022.02.12-01.44.54:680][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2022.02.12-01.44.54:680][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2022.02.12-01.44.54:680][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2022.02.12-01.44.54:680][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2022.02.12-01.44.54:680][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2022.02.12-01.44.54:680][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2022.02.12-01.44.54:680][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2022.02.12-01.44.54:680][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2022.02.12-01.44.54:680][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2022.02.12-01.44.54:680][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.02.12-01.44.54:681][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.02.12-01.44.55:621][  0]LogPython: Using Python 3.7.7
+[2022.02.12-01.44.56:658][  0]LogUProjectInfo: Found projects:
+[2022.02.12-01.44.56:969][  0]SourceControl: Source control is disabled
+[2022.02.12-01.44.56:969][  0]SourceControl: Source control is disabled
+[2022.02.12-01.44.57:424][  0]SourceControl: Source control is disabled
+[2022.02.12-01.44.58:120][  0]SourceControl: Source control is disabled
+[2022.02.12-01.44.59:850][  0]LogHAL: Warning: Failed to launch Tool. (/usr/bin/mdfind)
+[2022.02.12-01.44.59:850][  0]LogUnixPlatformFile: Warning: Cannot determine whether '/home/luojiayi/.steampath' is a directory - d_type not supported and stat() failed with errno=2 (No such file or directory)
+[2022.02.12-01.45.00:073][  0]SourceControl: Source control is disabled
+[2022.02.12-01.45.03:786][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.12-01.45.03:786][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.12-01.45.06:945][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.12-01.45.12:130][  0]LogCollectionManager: Loaded 0 collections in 0.001209 seconds
+[2022.02.12-01.45.12:604][  0]LogFileCache: Scanning file cache for directory '/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Collections/' took 0.00s
+[2022.02.12-01.45.12:604][  0]LogFileCache: Scanning file cache for directory '/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Developers/luojiayi/Collections/' took 0.00s
+[2022.02.12-01.45.12:604][  0]LogFileCache: Scanning file cache for directory '/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/Collections/' took 0.00s
+[2022.02.12-01.45.12:836][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2022.02.12-01.45.12:836][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2022.02.12-01.45.12:836][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2022.02.12-01.45.12:836][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2022.02.12-01.45.12:836][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2022.02.12-01.45.12:836][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2022.02.12-01.45.12:836][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2022.02.12-01.45.12:836][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2022.02.12-01.45.12:836][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2022.02.12-01.45.12:836][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2022.02.12-01.45.12:836][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2022.02.12-01.45.12:836][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2022.02.12-01.45.12:836][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2022.02.12-01.45.12:836][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2022.02.12-01.45.12:836][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2022.02.12-01.45.12:836][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2022.02.12-01.45.12:836][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.02.12-01.45.12:836][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.02.12-01.45.13:068][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2022.02.12-01.45.13:068][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2022.02.12-01.45.13:068][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2022.02.12-01.45.13:068][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2022.02.12-01.45.13:068][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2022.02.12-01.45.13:068][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2022.02.12-01.45.13:068][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2022.02.12-01.45.13:068][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2022.02.12-01.45.13:068][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2022.02.12-01.45.13:068][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2022.02.12-01.45.13:068][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2022.02.12-01.45.13:068][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2022.02.12-01.45.13:068][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2022.02.12-01.45.13:068][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2022.02.12-01.45.13:068][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2022.02.12-01.45.13:068][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2022.02.12-01.45.13:068][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.02.12-01.45.13:068][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.02.12-01.45.13:646][  0]LogClass: Display: Int8Property FMTSJson::version is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.02.12-01.45.13:646][  0]LogClass: Display: Int16Property FMTSJson::resolutionValue is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.02.12-01.45.13:646][  0]LogClass: Display: BoolProperty FMTSJson::isExternal is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.02.12-01.45.13:646][  0]LogClass: Display: Int8Property FMTSJson::meshVersion is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.02.12-01.45.13:646][  0]LogClass: Display: BoolProperty FMTSJson::isCustom is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.02.12-01.45.13:646][  0]LogClass: Display: BoolProperty FMTSJson::isModularAsset is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.02.12-01.45.13:646][  0]LogClass: Display: Int8Property FLodList::variation is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.02.12-01.45.13:646][  0]LogClass: Display: Int16Property FMeshList::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.02.12-01.45.13:646][  0]LogClass: Display: Int16Property FComponents::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.02.12-01.45.13:646][  0]LogClass: Display: BoolProperty FTextureSets::isUdim is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.02.12-01.45.13:646][  0]LogClass: Display: BoolProperty FMeta::value is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.02.12-01.45.13:646][  0]LogClass: Display: 11 Uninitialized script struct members found including 0 object properties
+[2022.02.12-01.45.13:647][  0]LogEngine: Initializing Engine...
+[2022.02.12-01.45.13:648][  0]LogCore: Warning: dlopen failed: /usr/lib/libopenxr_loader.so: cannot open shared object file: No such file or directory
+[2022.02.12-01.45.13:648][  0]LogCore: Warning: dlopen failed: /usr/lib/x86_64-linux-gnu/libopenxr_loader.so: cannot open shared object file: No such file or directory
+[2022.02.12-01.45.13:648][  0]LogCore: Warning: dlopen failed: /usr/local/lib/libopenxr_loader.so: cannot open shared object file: No such file or directory
+[2022.02.12-01.45.13:648][  0]LogHMD: Failed to load openxr_loader.dll
+[2022.02.12-01.45.13:648][  0]LogHMD: Failed to initialize core functions. Please check that you have a valid OpenXR runtime installed.
+[2022.02.12-01.45.13:648][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.12-01.45.13:649][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.12-01.45.13:770][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.12-01.45.14:619][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.12-01.45.14:623][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.12-01.45.14:623][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.02.12-01.45.14:623][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.02.12-01.45.14:624][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.12-01.45.14:624][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.12-01.45.14:624][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.12-01.45.14:624][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.12-01.45.14:624][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.12-01.45.14:624][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.12-01.45.14:624][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.12-01.45.14:624][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.12-01.45.14:624][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.12-01.45.14:624][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.12-01.45.14:624][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.12-01.45.14:624][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.12-01.45.14:624][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.12-01.45.14:624][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.12-01.45.14:632][  0]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2022.02.12-01.45.14:730][  0]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2022.02.12-01.45.14:733][  0]LogAudioMixer: Display: Using Audio Device Default Audio Device
+[2022.02.12-01.45.14:733][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.12-01.45.14:734][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.12-01.45.14:734][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.12-01.45.14:735][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.12-01.45.14:735][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2022.02.12-01.45.14:735][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.12-01.45.14:735][  0]LogInit: FAudioDevice initialized.
+[2022.02.12-01.45.14:735][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.12-01.45.14:735][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.12-01.45.14:782][  0]LogDerivedDataCache: Saved boot cache 0.05s 99MB ../../../../../Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/DerivedDataCache/Boot.ddc.
+[2022.02.12-01.45.14:796][  0]LogInit: Texture streaming: Enabled
+[2022.02.12-01.45.14:799][  0]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-0+++UE4+Release-4.27
+[2022.02.12-01.45.14:829][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.12-01.45.14:829][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.12-01.45.14:829][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.12-01.45.15:665][  0]LogInit: Transaction tracking system initialized
+[2022.02.12-01.45.17:082][  0]BlueprintLog: New page: Editor Load
+[2022.02.12-01.45.21:310][  0]LocalizationService: Localization service is disabled
+[2022.02.12-01.45.22:154][  0]TimingProfiler: Initialize
+[2022.02.12-01.45.22:154][  0]TimingProfiler: OnSessionChanged
+[2022.02.12-01.45.22:154][  0]LoadingProfiler: Initialize
+[2022.02.12-01.45.22:154][  0]LoadingProfiler: OnSessionChanged
+[2022.02.12-01.45.22:154][  0]NetworkingProfiler: Initialize
+[2022.02.12-01.45.22:154][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.12-01.45.22:154][  0]MemoryProfiler: Initialize
+[2022.02.12-01.45.22:154][  0]MemoryProfiler: OnSessionChanged
+[2022.02.12-01.45.24:596][  0]LogFileCache: Scanning file cache for directory '/home/luojiayi/Documents/jiayi/Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/' took 0.00s
+[2022.02.12-01.45.24:596][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.12-01.45.24:596][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.12-01.45.31:680][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.12-01.45.31:816][  0]SourceControl: Source control is disabled
+[2022.02.12-01.45.31:816][  0]LogUnrealEdMisc: Loading editor; pre map load, took 60.525
+[2022.02.12-01.45.31:816][  0]Cmd: MAP LOAD FILE="../../../../../Game_Development/MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.12-01.45.31:818][  0]LightingResults: New page: Lighting Build
+[2022.02.12-01.45.31:973][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-01.45.31:973][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-01.45.31:973][  0]MapCheck: New page: Map Check
+[2022.02.12-01.45.31:973][  0]LightingResults: New page: Lighting Build
+[2022.02.12-01.45.31:976][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.12-01.45.31:978][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.02.12-01.45.31:997][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialMap'.
+[2022.02.12-01.45.31:998][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2022.02.12-01.45.31:999][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.12-01.45.32:003][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.02.12-01.45.32:006][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.12-01.45.32:006][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.037ms to complete.
+[2022.02.12-01.45.32:006][  0]LogFileHelpers: Loading map 'TutorialMap' took 0.190
+[2022.02.12-01.45.32:007][  0]LogUnrealEdMisc: Total Editor Startup Time, took 60.716
+[2022.02.12-01.45.32:164][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-01.45.32:168][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-01.45.32:171][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-01.45.32:175][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-01.45.32:183][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0053 seconds. Added 3773 classes and 873 folders.
+[2022.02.12-01.45.32:529][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.12-01.45.32:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_TopDownBP.upack)
+[2022.02.12-01.45.32:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.12-01.45.32:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_Rolling.upack)
+[2022.02.12-01.45.32:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.02.12-01.45.32:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_SideScroller.upack)
+[2022.02.12-01.45.32:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.02.12-01.45.32:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_RollingBP.upack)
+[2022.02.12-01.45.32:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.02.12-01.45.32:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_FlyingBP.upack)
+[2022.02.12-01.45.32:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.02.12-01.45.32:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_VehicleBP.upack)
+[2022.02.12-01.45.32:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.02.12-01.45.32:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_2DSideScroller.upack)
+[2022.02.12-01.45.32:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.02.12-01.45.32:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/MobileStarterContent.upack)
+[2022.02.12-01.45.32:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.02.12-01.45.32:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_Vehicle.upack)
+[2022.02.12-01.45.32:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.02.12-01.45.32:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_Flying.upack)
+[2022.02.12-01.45.32:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.02.12-01.45.32:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.02.12-01.45.32:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.02.12-01.45.32:533][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.12-01.45.32:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.12-01.45.32:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.12-01.45.32:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.02.12-01.45.32:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.02.12-01.45.32:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_ThirdPerson.upack)
+[2022.02.12-01.45.32:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.02.12-01.45.32:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.02.12-01.45.32:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.02.12-01.45.32:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_TwinStick.upack)
+[2022.02.12-01.45.32:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.02.12-01.45.32:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/StarterContent.upack)
+[2022.02.12-01.45.32:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.02.12-01.45.32:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_VehicleAdv.upack)
+[2022.02.12-01.45.32:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.02.12-01.45.32:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_TwinStickBP.upack)
+[2022.02.12-01.45.32:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.12-01.45.32:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.02.12-01.45.32:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.02.12-01.45.32:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:534][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_TopDown.upack)
+[2022.02.12-01.45.32:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.02.12-01.45.32:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_Puzzle.upack)
+[2022.02.12-01.45.32:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.02.12-01.45.32:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_PuzzleBP.upack)
+[2022.02.12-01.45.32:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.12-01.45.32:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.02.12-01.45.32:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.02.12-01.45.32:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/FP_FirstPerson.upack)
+[2022.02.12-01.45.32:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.02.12-01.45.32:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.12-01.45.32:535][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.02.12-01.45.32:535][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.02.12-01.45.32:545][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.12-01.45.32:704][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2022.02.12-01.45.33:112][  0]LogVulkanRHI: Display: Requested PixelFormat 18 not supported by this swapchain! Falling back to supported swapchain format...
+[2022.02.12-01.45.33:112][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2022.02.12-01.45.33:112][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2022.02.12-01.45.33:112][  0]LogVulkanRHI: Display: Found 3 Surface present modes:
+[2022.02.12-01.45.33:112][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_FIFO_KHR (2)
+[2022.02.12-01.45.33:112][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_FIFO_RELAXED_KHR (3)
+[2022.02.12-01.45.33:112][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_IMMEDIATE_KHR (0)
+[2022.02.12-01.45.33:112][  0]LogVulkanRHI: Display: Selected VkPresentModeKHR mode 2
+[2022.02.12-01.45.33:112][  0]LogVulkanRHI: Creating new VK swapchain with present mode 2, format 44, color space 0, num images 3
+[2022.02.12-01.45.33:317][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.12-01.45.33:318][  0]LogLoad: (Engine Initialization) Total time: 62.03 seconds
+[2022.02.12-01.45.33:318][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.12-01.45.33:327][  0]LogSlate: Took 0.000052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.12-01.45.33:328][  0]LogSlate: Took 0.000037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.12-01.45.33:328][  0]LogSlate: Took 0.000050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.12-01.45.33:395][  0]LogRenderer: Reallocating scene render targets to support 1476x816 Format 10 NumSamples 1 (Frame:1).
+[2022.02.12-01.45.33:452][  0]LogInit: Adding external input plugin.
+[2022.02.12-01.45.33:452][  0]LogInit: Adding external input plugin.
+[2022.02.12-01.45.33:474][  0]LogAssetRegistry: Asset discovery search completed in 51.2475 seconds
+[2022.02.12-01.45.33:477][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2022.02.12-01.45.33:478][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.12-01.45.33:551][  3]LogCore: 0x00007ff2689d70ae Dladdr: 0.020590ms Open: 0.013920ms Search: 0.268084ms
+[2022.02.12-01.45.33:553][  3]LogCore: 0x00007ff268a2da1d Dladdr: 0.009374ms Open: 0.009195ms Search: 0.703329ms
+[2022.02.12-01.45.33:555][  3]LogCore: 0x00007ff37a6a4595 Dladdr: 0.006224ms Open: 1.438934ms Search: 1.602157ms
+[2022.02.12-01.45.33:557][  3]LogCore: 0x00007ff37a63163f Dladdr: 0.005051ms Open: 0.005320ms Search: 1.330826ms
+[2022.02.12-01.45.33:557][  3]LogCore: 0x00007ff37a6b732b Dladdr: 0.004377ms Open: 0.004130ms Search: 0.492829ms
+[2022.02.12-01.45.33:557][  3]LogCore: 0x00007ff37a6b68b2 Dladdr: 0.003376ms Open: 0.004147ms Search: 0.186707ms
+[2022.02.12-01.45.33:557][  3]LogCore: 0x00007ff37fee3aba Dladdr: 0.056534ms Open: 0.004997ms Search: 0.014755ms
+[2022.02.12-01.45.33:560][  3]LogCore: 0x00007ff37fee1f9d Dladdr: 0.070236ms Open: 0.003788ms Search: 0.030962ms
+[2022.02.12-01.45.33:560][  3]LogCore: 0x00007ff37a87bdc2 Dladdr: 0.010323ms Open: 0.004771ms Search: 0.012193ms
+[2022.02.12-01.45.33:560][  3]LogCore: 0x00007ff37ffb84c6 Dladdr: 0.052060ms Open: 0.003548ms Search: 0.014558ms
+[2022.02.12-01.45.33:560][  3]LogCore: 0x00007ff37ff74dc2 Dladdr: 0.050658ms Open: 0.003518ms Search: 0.014345ms
+[2022.02.12-01.45.33:560][  3]LogCore: 0x00007ff3809236da Dladdr: 0.002704ms Open: 0.002312ms Search: 0.000390ms
+[2022.02.12-01.45.33:560][  3]LogCore: 0x00007ff376afa71e Dladdr: 0.017314ms Open: 0.006468ms Search: 0.000201ms
+[2022.02.12-01.45.33:560][  3]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.007 s
+[2022.02.12-01.45.33:560][  3]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.12-01.45.33:560][  3]LogOutputDevice: Error: 
+[2022.02.12-01.45.33:560][  3]LogOutputDevice: Error: Ensure condition failed: Lhs.CurrentNum == Lhs.InitialNum [File:Runtime/Core/Public/Containers/Array.h] [Line: 219]
+[2022.02.12-01.45.33:560][  3]LogOutputDevice: Error: Array has changed during ranged-for iteration!
+[2022.02.12-01.45.33:560][  3]LogOutputDevice: Error: Stack: 
+[2022.02.12-01.45.33:560][  3]LogOutputDevice: Error: [Callstack] 0x00007ff2689d70af libUE4Editor-VulkanRHI.so!VulkanRHI::FMemoryManager::ReleaseFreedPages(FVulkanCommandListContext&) [/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/VulkanMemory.cpp:2452]
+[2022.02.12-01.45.33:560][  3]LogOutputDevice: Error: [Callstack] 0x00007ff268a2da1e libUE4Editor-VulkanRHI.so!FVulkanCommandListContext::RHIEndFrame() [/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/Engine/Source/Runtime/VulkanRHI/Private/VulkanRHI.cpp:949]
+[2022.02.12-01.45.33:560][  3]LogOutputDevice: Error: [Callstack] 0x00007ff37a6a4596 libUE4Editor-RHI.so!FRHICommand<FRHICommandEndFrame, FRHICommandEndFrameString1863>::ExecuteAndDestruct(FRHICommandListBase&, FRHICommandListDebugContext&) [/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/Engine/Source/Runtime/RHI/Public/RHICommandList.h:765]
+[2022.02.12-01.45.33:560][  3]LogOutputDevice: Error: [Callstack] 0x00007ff37a631640 libUE4Editor-RHI.so!FRHICommandListExecutor::ExecuteInner_DoExecute(FRHICommandListBase&) [/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/Engine/Source/Runtime/RHI/Private/RHICommandList.cpp:372]
+[2022.02.12-01.45.33:560][  3]LogOutputDevice: Error: [Callstack] 0x00007ff37a6b732c libUE4Editor-RHI.so!FExecuteRHIThreadTask::DoTask(ENamedThreads::Type, TRefCountPtr<FGraphEvent> const&) [/home/luojiayi/Documents/jiayi/Unreal/UnrealEngine/Engine/Source/Runtime/RHI/
